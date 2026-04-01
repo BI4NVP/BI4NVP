@@ -10,7 +10,7 @@
 
 > *往前走吧，别回头 / Move forward. Don't look back.*
 
-尝试学习python。
+尝试学习python，INTP-T
 QQ：357978819（大号未出柜...）
 
 |🏫高中生|High school student|准备高考（吗）|Preparing Gaokao....Really?????!!!!)
