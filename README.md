@@ -1,15 +1,14 @@
 my name is Kizume.
 <!-- 希澈 / Kisumi -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🏳️‍⚧️--ffb6c1?style=flat-square" />
-</p>
+<img src="https://img.shields.io/badge/🏳️‍⚧️-MtF-ffb6c1?style=flat-square" />
 
 # 🥬希澈 / Kisumi
 
 > *往前走吧，别回头 / Move forward. Don't look back.*
 
 尝试学习python。
+QQ：357978819（大号未出柜...）
 
 |🏫高中生|High school student|准备高考（吗）|Preparing Gaokao....Really?????!!!!)
 | 🏳️‍⚧️ 跨性别女性｜HRT 进行中| 🏳️‍⚧️ Trans girl \| on HRT \|
