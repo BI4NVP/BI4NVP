@@ -18,7 +18,7 @@ my name is Kizume.
 ---
 
 <!-- COUNTDOWN:START -->
-距离高考还有 **?** 天
+距离高考还有 **67** 天
 <!-- COUNTDOWN:END -->
 ---
 
