@@ -5,7 +5,7 @@ my name is Kizume.
   <img src="https://img.shields.io/badge/🏳️‍⚧️-trans%20girl-ffb6c1?style=flat-square" />
 </p>
 
-# 🌱 希澈 / Kisumi
+# 🥬希澈 / Kisumi
 
 > *往前走吧，别回头 / Move forward. Don't look back.*
 
