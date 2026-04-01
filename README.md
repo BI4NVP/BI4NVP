@@ -16,10 +16,10 @@ my name is Kizume.
 | 🎵 喜欢初音未来、音游，以及一切可爱的东西 | 🎵 Love Hatsune Miku, rhythm games and everything cute |
 |
 ---
-<!-- COUNTDOWN:START -->
-距离高考还有 ？天
-<!-- COUNTDOWN:END -->
 
+<!-- COUNTDOWN:START -->
+距离高考还有 **?** 天
+<!-- COUNTDOWN:END -->
 ---
 
 ### 📍 从青岛 → 未来的某个地方 / From Qingdao → somewhere
