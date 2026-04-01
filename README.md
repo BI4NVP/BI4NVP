@@ -2,7 +2,7 @@ my name is Kizume.
 <!-- 希澈 / Kisumi -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏳️‍⚧️-trans%20girl-ffb6c1?style=flat-square" />
+  <img src="https://img.shields.io/badge/🏳️‍⚧️--ffb6c1?style=flat-square" />
 </p>
 
 # 🥬希澈 / Kisumi
