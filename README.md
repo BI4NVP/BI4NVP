@@ -1,16 +1,38 @@
-## Hi there 👋
+my name is Kizume.
+<!-- 希澈 / Kisumi -->
 
-<!--
-**BI4NVP/BI4NVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/🏳️‍⚧️-trans%20girl-ffb6c1?style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+# 🌱 希澈 / Kisumi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *往前走吧，别回头 / Move forward. Don't look back.*
+
+尝试学习python。
+
+|🏫高中生|High school student|准备高考（吗）|Preparing Gaokao....Really?????!!!!)
+| 🏳️‍⚧️ 跨性别女性｜HRT 进行中| 🏳️‍⚧️ Trans girl \| on HRT \|
+| 🎵 喜欢初音未来、音游，以及一切可爱的东西 | 🎵 Love Hatsune Miku, rhythm games and everything cute |
+| 🧩 座右铭：往前走吧，别回头 | 🧩 Motto: Move forward. Don't look back. |
+
+---
+
+
+---
+
+### 📍 从青岛 → 未来的某个地方 / From Qingdao → somewhere
+
+
+---
+
+### 🧷 最后....
+第一次写这种自介，感谢github给我提供这个平台。
+This README is my first time seriously writing about myself.  
+
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✨-made%20with%20love-ff69b4?style=flat-square" />
+</p>
