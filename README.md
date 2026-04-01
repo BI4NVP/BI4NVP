@@ -1,9 +1,8 @@
-my name is Kizume.
-<!-- 希澈 / Kisumi -->
+<!-- 希澈 / Kizumi -->
 
 <img src="https://img.shields.io/badge/🏳️‍⚧️-MtF-ffb6c1?style=flat-square" />
 
-# 🥬希澈 / Kisumi
+# 🥬希澈 / Kizumi
 
 > *往前走吧，别回头 / Move forward. Don't look back.*
 
