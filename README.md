@@ -14,14 +14,14 @@ my name is Kizume.
 |🏫高中生|High school student|准备高考（吗）|Preparing Gaokao....Really?????!!!!)
 | 🏳️‍⚧️ 跨性别女性｜HRT 进行中| 🏳️‍⚧️ Trans girl \| on HRT \|
 | 🎵 喜欢初音未来、音游，以及一切可爱的东西 | 🎵 Love Hatsune Miku, rhythm games and everything cute |
-| 🧩 座右铭：往前走吧，别回头 | 🧩 Motto: Move forward. Don't look back. |
-
+|
 ---
 
 
 ---
 
 ### 📍 从青岛 → 未来的某个地方 / From Qingdao → somewhere
+### 📍 
 
 
 ---
