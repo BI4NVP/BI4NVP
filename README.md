@@ -16,7 +16,9 @@ my name is Kizume.
 | 🎵 喜欢初音未来、音游，以及一切可爱的东西 | 🎵 Love Hatsune Miku, rhythm games and everything cute |
 |
 ---
-
+<!-- COUNTDOWN:START -->
+距离高考还有 ？天
+<!-- COUNTDOWN:END -->
 
 ---
 
