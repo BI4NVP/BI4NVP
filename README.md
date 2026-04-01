@@ -20,7 +20,7 @@ my name is Kizume.
 <!-- COUNTDOWN:START -->
 距离高考还有 **67** 天
 <!-- COUNTDOWN:END -->
----
+我是高科技人才，这个倒计时是自动变滴！
 
 ### 📍 从青岛 → 未来的某个地方 / From Qingdao → somewhere
 ### 📍 
